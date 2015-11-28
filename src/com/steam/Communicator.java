@@ -1,7 +1,7 @@
 package com.steam;
 
-import com.util.Strings;
-import com.util.Time;
+import com.steam.util.Strings;
+import com.steam.util.Time;
 
 import java.io.BufferedReader;
 import java.io.IOException;
