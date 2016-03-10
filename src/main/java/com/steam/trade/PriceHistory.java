@@ -5,8 +5,8 @@ package com.steam.trade;
  * <p>
  * An object representing the current market status of an item, including pricing and current amount of items being traded.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class PriceHistory {
     private float lowestPrice;

@@ -5,8 +5,8 @@ package com.steam.util;
  * <p>
  * An object which represents a basic timer/stopwatch.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Timer {
     private long start;

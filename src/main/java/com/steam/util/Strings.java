@@ -5,8 +5,8 @@ package com.steam.util;
  * <p>
  * A utility class containing methods that deal with strings.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Strings {
     private Strings() {

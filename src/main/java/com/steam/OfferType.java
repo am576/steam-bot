@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An enum representing the types of offers to return when retrieving trade histories.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum OfferType {
     /**

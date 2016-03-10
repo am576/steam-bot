@@ -17,8 +17,8 @@ import java.util.Map;
  * <p>
  * An object which reads JSON into a new UserAchievements object and also writes a Java object to JSON.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class UserAchievementsAdapter extends TypeAdapter<UserAchievements> {
     /**

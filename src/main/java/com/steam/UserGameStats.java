@@ -7,8 +7,8 @@ import java.util.Map;
  * <p>
  * An object which holds a statistics listing and basic user/game information.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class UserGameStats extends GameStats {
     private final long userId;

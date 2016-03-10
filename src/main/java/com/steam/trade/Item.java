@@ -5,8 +5,8 @@ package com.steam.trade;
  * <p>
  * An object representing an item involved in a Steam trade.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Item {
     private long gameId;

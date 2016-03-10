@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object representing various API versions which are used in the Steam WebAPI.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum Version implements QueryToken {
     V1, V2;

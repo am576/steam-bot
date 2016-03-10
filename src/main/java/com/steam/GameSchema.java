@@ -7,8 +7,8 @@ import java.util.Arrays;
  * <p>
  * An object holding pertinent game meta data, such as current version, possible achievements, and game statistics.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class GameSchema {
     private final String name;

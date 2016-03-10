@@ -10,8 +10,8 @@ import java.util.regex.Pattern;
  * <p>
  * An object representing a type of currency to return during item lookup calls.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 //TODO:Load exchange rates dynamically through fixer.io
 public enum Currency implements QueryToken {

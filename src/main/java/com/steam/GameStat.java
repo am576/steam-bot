@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object holding the pertinent information for game statistics.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class GameStat {
     private final String name;

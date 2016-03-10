@@ -8,8 +8,8 @@ import com.steam.trade.TradeService;
  * <p>
  * An object that retrieves various game data and harnesses the ability to trade items for games.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Steam implements AutoCloseable {
     //TODO:Replace with proper api key for launch site

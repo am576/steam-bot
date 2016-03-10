@@ -14,8 +14,8 @@ import java.lang.reflect.Type;
  * <p>
  * An object which converts file formats into JSON and returns the appropriate object which is mapped by type adapters.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 //TODO:Go through all adapters and mimick the steam JSON format to ensure parsing object back and forth will return consistent data
 public class DataParser {

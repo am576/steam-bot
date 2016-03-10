@@ -4,8 +4,8 @@ package com.steam;
  * QueryToken
  * An object representing a component of a Steam Web API query string.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public interface QueryToken {
     /**

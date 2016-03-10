@@ -7,8 +7,8 @@ import java.util.Arrays;
  * <p>
  * An object holding various news items for a certain game.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class GameNews {
     private final int gameId;

@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object representing a possible HTTP request method.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum RequestMethod {
     /**

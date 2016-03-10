@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object holding pertinent game achievement meta data.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class GameAchievement {
     private final String name;

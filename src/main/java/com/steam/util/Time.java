@@ -5,8 +5,8 @@ package com.steam.util;
  * <p>
  * A utility class which handles thread sleeps and time related operations.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Time {
     private Time() {

@@ -5,8 +5,8 @@ package com.steam.trade;
  * <p>
  * An object representing recent trade offers (up to a maximum of 500 sent or 1000 received regardless of time_historical_cutoff) for the account associated with the WebAPI key.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class TradeHistory {
     private final Offer[] sentOffers;

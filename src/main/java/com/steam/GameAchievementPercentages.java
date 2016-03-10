@@ -7,8 +7,8 @@ import java.util.Map;
  * <p>
  * An object holding the achievement percentages for a game.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class GameAchievementPercentages {
     private final Map<String, Double> mapping;

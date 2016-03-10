@@ -6,8 +6,8 @@ package com.steam;
  * The type of file formatting used in queries of the Steam API.
  * The default format of the Steam API is JSON.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum DataFormat {
     /**

@@ -11,8 +11,8 @@ import java.net.URLEncoder;
  * <p>
  * An object which provides methods for retrieving market information of items.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class MarketService {
     private static final String INVENTORY_PATTERN = "http://steamcommunity.com/market/priceoverview/?currency=%s&appid=%s&market_hash_name=%s";

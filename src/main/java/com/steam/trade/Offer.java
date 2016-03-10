@@ -9,8 +9,8 @@ import java.util.List;
  * <p>
  * An object representing a Steam trade offer between two users.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Offer {
     /**

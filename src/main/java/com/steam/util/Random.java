@@ -6,8 +6,8 @@ package com.steam.util;
  * A singleton of the java.util.Random class to avoid over-creation of the Random class, as instantiation is quite costly.
  * A few convenience methods are also included for getting random numbers within an interval.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Random extends java.util.Random {
     private static Random ourInstance = new Random();

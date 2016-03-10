@@ -7,8 +7,8 @@ import com.steam.*;
  * <p>
  * An object which provides methods related to inventory and trading.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class TradeService {
     private static final String INVENTORY_PATTERN = "http://steamcommunity.com/profiles/%s/inventory/json/%s/%s";

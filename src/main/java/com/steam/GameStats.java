@@ -7,8 +7,8 @@ import java.util.Map;
  * <p>
  * An object holding a stat listing for a certain game.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class GameStats {
     private final Map<String, Long> statMapping;

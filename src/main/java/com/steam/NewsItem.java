@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object holding relevant news data.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class NewsItem {
     private final long id;

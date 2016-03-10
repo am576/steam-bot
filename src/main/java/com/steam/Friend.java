@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object representing an entry in a friends list.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Friend {
     private final long userId;

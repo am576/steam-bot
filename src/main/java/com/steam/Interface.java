@@ -4,8 +4,8 @@ package com.steam;
  * Interface
  * An object representing a class that contains methods to be used in the Steam WebAPI.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum Interface implements QueryToken {
     ECONOMY("IEconService"),

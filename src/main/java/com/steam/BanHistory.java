@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object holding information about the ban history of a player.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class BanHistory {
     private final long userId;

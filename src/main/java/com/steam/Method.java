@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object representing a Steam WebAPI method to be called.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum Method implements QueryToken {
     /**

@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An enum containing the language presets for API method calls.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum Language implements QueryToken {
     ENGLISH("en");

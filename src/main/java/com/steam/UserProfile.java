@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object holding all public and private user profile data.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class UserProfile {
     public static final int OFFLINE = 0;

@@ -8,8 +8,8 @@ import java.util.Map;
  * <p>
  * An object holding information about playing achievements and looking up the user progress of said achievements.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class UserAchievements {
     private final long userId;

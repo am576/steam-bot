@@ -5,8 +5,8 @@ package com.steam;
  * <p>
  * An object representing the depth to which return pertinent item information in offers.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public enum DescriptorDepth {
     /**

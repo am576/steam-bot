@@ -16,8 +16,8 @@ import java.util.concurrent.*;
  * <p>
  * An object which bridges to the Steam WebAPI and retrieves the response for certain WebAPI methods.
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Communicator implements AutoCloseable {
     private static final String FORMAT_PATTERN = "&format=%s";
